@@ -23,4 +23,5 @@ export default defineConfig({
 
     socialLinks: [],
   },
+  base: "/science-project/",
 });
