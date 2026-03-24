@@ -104,3 +104,7 @@ Magma: hot liquid on Earth.
 1. Zoehfeld, Kathleen Weidner (2012) National Geographic Kids: Rocks and Minerals. Scholastic,
 2. Mahan, Shannon (2022) Rocks, Minerals, and gems. Scholastic
 3. LaFountaine of Knowledge. (March 22, 2026) The Rock Cycle with Starburst Candy. YouTube: https://youtu.be/FxYpQqcBYB8?si=JsA_zX4ISSZn7Owx
+
+##
+
+<img src="./poster.png" width="100%" />
