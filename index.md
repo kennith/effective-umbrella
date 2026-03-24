@@ -31,6 +31,8 @@ If rocks go through heat, pressure, and erosion, then they can change into diffe
 - Microwave
 - Spoon
 
+<img src="./29807.jpg" width="480px" />
+
 ## Steps
 
 ### 1. Create Sediment
@@ -90,4 +92,4 @@ Magma: hot liquid on Earth.
 
 1. Zoehfeld, Kathleen Weidner (2012) National Geographic Kids: Rocks and Minerals. Scholastic,
 2. Mahan, Shannon (2022) Rocks, Minerals, and gems. Scholastic
-3. LaFountaine of Knowledge. (March 22, 2026) The Rock Cycle with Starburst Candy. YouTube: https://rocketreach.co/andre-landscape-service-inc-management_b5c275f6f42e0ef1
+3. LaFountaine of Knowledge. (March 22, 2026) The Rock Cycle with Starburst Candy. YouTube: https://youtu.be/FxYpQqcBYB8?si=JsA_zX4ISSZn7Owx
