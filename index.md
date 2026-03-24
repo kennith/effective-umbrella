@@ -44,25 +44,25 @@ If rocks go through heat, pressure, and erosion, then they can change into diffe
 
 ## Steps
 
-1 Create Sediment
+### 1. Create Sediment
 
 Use normal-sized Starbursts, carefully cut each one in half, then in half again, making four roughly equal pieces.
 Place about 8 small pieces of candy on a large plate
 
-2 Make Sedimentary Rock
+### 2. Make Sedimentary Rock
 
 Take 8 pieces of Starburst candy.
 Stack 4 pieces on top of each other, then repeat with the remaining 4 pieces.
 Gently press or squish the stacks together.
 
-3 Igneous rock
+### 3. Igneous rock
 
 Place 8 pieces of Starburst candy into a Ziplock bag.
 Put hot water in a cup.
 Put the Ziplock with your Starburst in the cup for 5 minutes
 Take the Starburst out of the bag and put it in a plate
 
-4 Form Metamorphic
+### 4. Form Metamorphic
 
 Get the bowl with the Starburst then put it in the microwave for 10 seconds.
 After that squish it hard with your plate.
